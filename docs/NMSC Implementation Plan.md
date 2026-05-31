@@ -294,7 +294,6 @@ Generate compliant customer quotations and tenders from evaluated supplier offer
 | --- | --- |
 | `spatie/laravel-pdf` | Laravel PDF generation for branded documents, Arabic/RTL document output, and complex quotation/invoice layouts. |
 | `openspout/openspout` | Streaming Excel import/export for large tenders and high-volume reports. |
-| `maatwebsite/excel` | Optional convenience layer for smaller Excel imports/exports if preferred by the team. |
 
 ### NPM packages
 
@@ -518,7 +517,6 @@ Turn the modules into a production-ready enterprise system.
 | `smalot/pdfparser` | 3 | Text PDF extraction only. |
 | `spatie/laravel-pdf` | 5 | High-fidelity Laravel PDF generation. |
 | `openspout/openspout` | 5 | Streaming Excel import/export. |
-| `maatwebsite/excel` | 5 | Optional Excel convenience layer. |
 | `spatie/laravel-webhook-client` | 0/1 | Signed inbound webhooks from Oracle Integration Cloud, middleware, WMS, Graph, or other systems. |
 | `spatie/laravel-webhook-server` | 0/1 | Signed outbound webhooks to Oracle Integration Cloud, middleware, or partner systems. |
 
